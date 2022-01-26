@@ -19,8 +19,6 @@ void main()
 {
     int a;
     heading();
- 
-    // Taking Choice From User
     printf("\t\t\t\t1. International "
            "Tour Packages\n");
     printf("\t\t\t\t2. India Tour Packages\n");
